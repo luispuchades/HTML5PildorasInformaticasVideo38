@@ -1,0 +1,18 @@
+/**CSS Document
+ * Curso: HMTL5 - Pildoras Informáticas - API CANVAS XIII
+ * Origin: Video38.html ==> Animaciones en Canvas II
+ */
+
+body {
+    background: #fff;
+}
+
+section {
+    margin: auto;
+    position: relative;
+    width: 800px;
+}
+
+#lienzo {
+    border: 1px #F00 solid;
+}
