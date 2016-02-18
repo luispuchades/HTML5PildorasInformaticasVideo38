@@ -85,6 +85,7 @@ function animacion(event) {
     lienzo.arc(x, y, 10, 0, Math.PI*2, false);
     lienzo.moveTo(x,y);
     lienzo.arc(x+50, y, 10, 0, Math.PI*2, false);
+// Rellenamos el círculo
     lienzo.fill();
 
 }
